@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1677173135 source:c:\users\hd\desktop\learnsdl\testmotion\entity.cpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+
+1677168718 c:\users\hd\desktop\learnsdl\testmotion\entity.hpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1677173007 source:c:\users\hd\desktop\learnsdl\testmotion\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1677173264 c:\users\hd\desktop\learnsdl\testmotion\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+
+1677156397 source:c:\users\hd\desktop\learnsdl\testmotion\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+
